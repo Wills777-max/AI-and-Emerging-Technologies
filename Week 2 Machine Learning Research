@@ -1,8 +1,13 @@
 Seven Steps of Machine Learning
-1. Gathering Data 
-2. Preparing the Data
-3. Choosing a Model
-4. Training
+1. Gathering Data - First understand the problem you want to solve. Then identify where you can obtain the data. Methods used to collect data can be surveys, web scraping, and crowdsourcing.
+2. Preparing the Data - After the data has been collected it needs to preprocessed for missing values, removing duplicates, and filtering out noise. Data validation and regular monitoring need to be done continuously to maintain its relevance and accuracy.
+3. Choosing a Model - The process of selecting the top model or algorithm from a list of potential models to address a certain issue. It entails assessing and contrasting various models according to how well they function and choosing the one that reaches the highest level of accuracy.
+4. Training - 
 5. Evalauation
 6. Hyperparameter Tuning
 7. Prediction
+
+Some of applications of machine learning are social media features, product reccomendations, image recognition, predict potential heart failure, and language trasnlation.
+An application I discovered while researching machine Learning was sentiment analysis. Sentiment analysis is a real-time machine learning application that determines the emotion or opinion of the speaker or the writer. An example is someone who has written  any form of a document, a sentiment analyzer will instantly find out the actual thought and tone of the text. Sentiment analysis machine learning replaces or improves existing solutions because it can process more information than a human reading a review or the like and entering it in manually. This application is in development but also being used by many companieslike Nike and Google.
+
+One ethical issue with this macgine learning application is privacy and data use. Socail media tools could collect posts without users knowledge and companies may not be securing gathered data properly.
