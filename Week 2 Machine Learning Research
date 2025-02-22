@@ -1,1 +1,10 @@
+Seven Steps of Machine Learning
+1. Gathering Data is a process for aquiring information on a specific subject to make informed decisions. Clearly outline the objectives of the data collection process and the specific research questions you want to answer. This step will guide the entire process and ensure you collect the right data to meet your goals.
 
+Also, it is recommended to identify data sources. Determine the sources from which you will collect data. These sources may include primary data (collected directly for your study) or secondary data (previously collected by others). Common data sources include surveys, interviews, existing databases, observation, experiments, and online platforms.
+2. Preparing the Data
+3. Choosing a Model
+4. Training
+5. Evalauation
+6. Hyperparameter Tuning
+7. Prediction
